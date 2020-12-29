@@ -1,0 +1,58 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+}
+
+body{
+  background: url('/Css/Gatito.png') no-repeat center top;
+  font-family: 'Nerko One', cursive;
+  letter-spacing: 2px;
+}
+
+#contenedor{
+  width: 70%;
+  margin: 0px auto;
+}
+
+nav{
+  background: ;
+  height: 70px;
+  width: 100%;
+ line-height: 20px;
+}
+
+nav ul li{
+float: right;
+list-style: none;
+margin: 30px;
+}
+
+#contenido{
+  float: left;
+  background: ;
+  width: 70%;
+  min-height: 500px;
+  
+}
+
+.separado{
+  clear:both;
+}
+aside{
+  float: left;
+  background: ;
+  width: 30%;
+  min-height: 500px
+  
+}
+footer{
+  background: ;
+  color: White;
+  text-align: center;
+ 
+}
+
+.boton {
+  
+}
